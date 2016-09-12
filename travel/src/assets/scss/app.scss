@@ -1,0 +1,35 @@
+@import 'settings';
+@import 'foundation-emails';
+
+h1, h2, h6 {
+  color: #184B6F;
+}
+
+.no-bg {
+  background: $body-background;
+}
+
+table.body img.logo {
+  width: 200px;
+}
+
+.small-text {
+  font-size: 12px;
+}
+
+.contact p {
+  font-size: 14px;
+}
+
+.icon {
+  display: inline-block;
+  padding-right: 10px;
+}
+
+.main-img {
+  border-radius: 10px 10px 0 0;
+}
+
+th.no-padd {
+  padding: 0 !important;
+}
